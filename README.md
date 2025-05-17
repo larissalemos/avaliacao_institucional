@@ -29,20 +29,21 @@ Este projeto foi parte de uma análise de contexto mais ampla, que incluiu:
 
 O guia elaborado contém:
 
-- **Etapas para construção de um projeto robusto de M&A**
+- **Definição de missão, visão, valores**
+- **Definição de programas**
+- **Definição de projetos**
 - **Modelo e orientações para definição da Teoria da Mudança**
-- **Explicações teóricas e orientações sobre cada etapa**
+- **Definição orientada de etapas para construção de um projeto robusto de M&A, com fundamentação teórica**
   1. Análise de contexto e stakeholders
-  2. Formulação de perguntas avaliativas
+  2. [Formulação de perguntas avaliativas com modelo de dinâmica no Miro.](https://miro.com/app/board/uXjVKd1XDFY=/?share_link_id=905556171460)
   3. Avaliação de processos, resultados ou impactos
   4. Eleição do modelo de investigação
   5. Definição de indicadores e critérios de julgamento
-  6. Eleição das forntes de coleta de informações
+  6. Eleição das fontes de coleta de informações
   7. Análise das informações
-- **Design de dinâmica para criação de perguntas avaliativas coletivamente utilizando Miro**
-- **Template para registro de atores envolvidos no projeto avaliativo, perguntas avaliativas e indicadores**
+- **[Template para registro de atores envolvidos no projeto avaliativo, perguntas avaliativas e indicadores](https://1drv.ms/x/c/f5871ce5cd3642f0/EZKdxP4d6O9Gv5oSipgXngwBNKikU2dry0gxFhY1emcrOg?e=P42pMf)**
 
-> 📄 **Acesse o documento completo [aqui](URL_DO_PDF_SE_DISPONÍVEL)**
+> 📄 **[ACESSE O DOCUMENTO COMPLETO AQUI](https://1drv.ms/p/c/f5871ce5cd3642f0/EU5qJHzenbBHimHeKMHNWtgBkK-HE5tkU5hRpzjolAZ2lw?e=xBSkAJ)**
 
 ---
 
