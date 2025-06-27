@@ -41,9 +41,9 @@ O guia elaborado contém:
   5. Definição de indicadores e critérios de julgamento
   6. Eleição das fontes de coleta de informações
   7. Análise das informações
-- **[Template para registro de atores envolvidos no projeto avaliativo, perguntas avaliativas e indicadores](https://1drv.ms/x/c/f5871ce5cd3642f0/EZKdxP4d6O9Gv5oSipgXngwBNKikU2dry0gxFhY1emcrOg?e=P42pMf)**
+- **[Template para registro de atores envolvidos no projeto avaliativo, perguntas avaliativas e indicadores](https://1drv.ms/x/c/f5871ce5cd3642f0/EZ_eTrSfB3NMtbF0HHXKKbUB10iDQMO6YYMNylkA2kP3lg?e=xuLna4)**
 
-> 📄 **[ACESSE O DOCUMENTO COMPLETO AQUI](https://1drv.ms/p/c/f5871ce5cd3642f0/EU5qJHzenbBHimHeKMHNWtgBkK-HE5tkU5hRpzjolAZ2lw?e=xBSkAJ)**
+> 📄 **[ACESSE O DOCUMENTO COMPLETO AQUI](https://1drv.ms/b/c/f5871ce5cd3642f0/Eb5eJzEA-19PoAWHzXtWy9MBxT4GyI2zAWD6cCz-vZPlyg?e=AdxbNd)**
 
 ---
 
